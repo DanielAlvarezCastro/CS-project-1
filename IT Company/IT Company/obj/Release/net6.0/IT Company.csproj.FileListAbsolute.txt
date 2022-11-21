@@ -1,0 +1,15 @@
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\bin\Release\net6.0\IT Company.exe
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\bin\Release\net6.0\IT Company.deps.json
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\bin\Release\net6.0\IT Company.runtimeconfig.json
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\bin\Release\net6.0\IT Company.dll
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\bin\Release\net6.0\IT Company.pdb
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.csproj.AssemblyReference.cache
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.AssemblyInfoInputs.cache
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.AssemblyInfo.cs
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.csproj.CoreCompileInputs.cache
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.dll
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\refint\IT Company.dll
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.pdb
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\IT Company.genruntimeconfig.cache
+C:\Users\Dani Alvarez\Desktop\HN Institut\IT Company\IT Company\obj\Release\net6.0\ref\IT Company.dll

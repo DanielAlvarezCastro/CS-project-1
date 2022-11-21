@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProjectTeam xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/IT_Company">
+  <ProjectTeam>
+    <teamMembers>
+      <ProgrammerInCharge>
+        <activity>Backend Programming</activity>
+        <name xmlns:d5p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <d5p1:string>Person</d5p1:string>
+          <d5p1:string>True</d5p1:string>
+        </name>
+        <salary>1</salary>
+        <workEnd>2022-09-20T00:00:00</workEnd>
+        <workStart>2022-09-01T00:00:00</workStart>
+      </ProgrammerInCharge>
+      <ProgrammerInCharge>
+        <activity>Backend System</activity>
+        <name xmlns:d5p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <d5p1:string>Doe</d5p1:string>
+          <d5p1:string>Joe</d5p1:string>
+        </name>
+        <salary>5</salary>
+        <workEnd>2022-09-30T00:00:00</workEnd>
+        <workStart>2022-09-06T00:00:00</workStart>
+      </ProgrammerInCharge>
+    </teamMembers>
+    <teamName>Backend development</teamName>
+    <type>FullSalary</type>
+  </ProjectTeam>
+  <ProjectTeam>
+    <teamMembers>
+      <ProgrammerInCharge>
+        <activity>Frontend Programming</activity>
+        <name xmlns:d5p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <d5p1:string>Sanderson</d5p1:string>
+          <d5p1:string>Brandom</d5p1:string>
+        </name>
+        <salary>1</salary>
+        <workEnd>2022-09-20T00:00:00</workEnd>
+        <workStart>2022-09-01T00:00:00</workStart>
+      </ProgrammerInCharge>
+      <ProgrammerInCharge>
+        <activity>Frontend System</activity>
+        <name xmlns:d5p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <d5p1:string>Rajoy</d5p1:string>
+          <d5p1:string>Mariano</d5p1:string>
+        </name>
+        <salary>5</salary>
+        <workEnd>2022-09-30T00:00:00</workEnd>
+        <workStart>2022-09-06T00:00:00</workStart>
+      </ProgrammerInCharge>
+    </teamMembers>
+    <teamName>Frontend development</teamName>
+    <type>HalfSalary</type>
+  </ProjectTeam>
+</ArrayOfProjectTeam>

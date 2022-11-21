@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProjectTeam xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/IT_Company">
+  <ProjectTeam>
+    <teamMembers xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:anyType i:type="LeadProgrammer">
+        <activity>Lead</activity>
+        <name>
+          <d3p1:string>Jonhson</d3p1:string>
+          <d3p1:string>Fred</d3p1:string>
+        </name>
+        <salary>5</salary>
+        <teamName>Backend Development</teamName>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+      <d3p1:anyType i:type="ProgrammerInCharge">
+        <activity>Backend programming</activity>
+        <name>
+          <d3p1:string>Person</d3p1:string>
+          <d3p1:string>True</d3p1:string>
+        </name>
+        <salary>1</salary>
+        <workEnd>2022-12-10T00:00:00+01:00</workEnd>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+      <d3p1:anyType i:type="ProgrammerInCharge">
+        <activity>Backend desing</activity>
+        <name>
+          <d3p1:string>Doe</d3p1:string>
+          <d3p1:string>Joe</d3p1:string>
+        </name>
+        <salary>5</salary>
+        <workEnd>2022-12-05T00:00:00+01:00</workEnd>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+    </teamMembers>
+    <teamName>BackEnd Development</teamName>
+    <type>FullSalary</type>
+  </ProjectTeam>
+  <ProjectTeam>
+    <teamMembers xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:anyType i:type="ProgrammerInCharge">
+        <activity>Frontend Development</activity>
+        <name>
+          <d3p1:string>Gibson</d3p1:string>
+          <d3p1:string>Mel</d3p1:string>
+        </name>
+        <salary>1</salary>
+        <workEnd>2022-12-10T00:00:00+01:00</workEnd>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+      <d3p1:anyType i:type="ProgrammerInCharge">
+        <activity>Frontend desing</activity>
+        <name>
+          <d3p1:string>Gere</d3p1:string>
+          <d3p1:string>Richard</d3p1:string>
+        </name>
+        <salary>5</salary>
+        <workEnd>2022-12-05T00:00:00+01:00</workEnd>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+    </teamMembers>
+    <teamName>Frontend Development</teamName>
+    <type>HalfSalary</type>
+  </ProjectTeam>
+  <ProjectTeam>
+    <teamMembers xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:anyType i:type="ProgrammerInCharge">
+        <activity>QA testing</activity>
+        <name>
+          <d3p1:string>Jolie</d3p1:string>
+          <d3p1:string>Angelina</d3p1:string>
+        </name>
+        <salary>10</salary>
+        <workEnd>2022-12-20T00:00:00+01:00</workEnd>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+      <d3p1:anyType i:type="ProgrammerInCharge">
+        <activity>UI testing</activity>
+        <name>
+          <d3p1:string>Freeman</d3p1:string>
+          <d3p1:string>Morgan</d3p1:string>
+        </name>
+        <salary>15</salary>
+        <workEnd>2023-01-04T00:00:00+01:00</workEnd>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+      <d3p1:anyType i:type="ProgrammerInCharge">
+        <activity>Web testing</activity>
+        <name>
+          <d3p1:string>Cruise</d3p1:string>
+          <d3p1:string>Tom</d3p1:string>
+        </name>
+        <salary>5</salary>
+        <workEnd>2022-12-10T00:00:00+01:00</workEnd>
+        <workStart>2022-11-20T00:00:00+01:00</workStart>
+      </d3p1:anyType>
+    </teamMembers>
+    <teamName>Testing</teamName>
+    <type>FullSalary</type>
+  </ProjectTeam>
+</ArrayOfProjectTeam>
